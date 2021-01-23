@@ -70,4 +70,10 @@
     font-size: 20px;
     margin-bottom: 10px;
   }
+
+  @media screen and (max-width:320px) {
+    h1 {
+      font-size: 20px;
+    }
+  }
   
